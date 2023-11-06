@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+    <pages>
+        <page name=' Basics'/>
+        <page name='Types'/>
+        <page name='Variables &amp; Constants'/>
+        <page name='Arrays'/>
+        <page name='Sets'/>
+        <page name='If Statements &amp; Operators'/>
+        <page name='Functions &amp; Parameters'/>
+        <page name='Loops'/>
+        <page name='Classes and Structs'/>
+        <page name='Dictionaries'/>
+    </pages>
+</playground>
