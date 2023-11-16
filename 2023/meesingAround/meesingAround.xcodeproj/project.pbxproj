@@ -111,6 +111,9 @@
 				Base,
 			);
 			mainGroup = A2A61DEE2AF923610038F0EC;
+			packageReferences = (
+				A2767E502B06BC93001E1C0F /* XCRemoteSwiftPackageReference "Inferno" */,
+			);
 			productRefGroup = A2A61DF82AF923620038F0EC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -342,6 +345,17 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		A2767E502B06BC93001E1C0F /* XCRemoteSwiftPackageReference "Inferno" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/twostraws/Inferno.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
 	};
 	rootObject = A2A61DEF2AF923610038F0EC /* Project object */;
 }
