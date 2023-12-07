@@ -83,4 +83,10 @@ print(family.count)
 print(family.contains("Mark"))
 
 
-END OF ARRAYS
+// Dictionaries use keys
+let son = [
+    "name": "Jameo",
+    "occupation": "Pre-school"
+]
+
+
